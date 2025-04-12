@@ -106,6 +106,7 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 - 📫 How to reach me **yasirzia@ live.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YpmNlNnEA0oCPXll3bqz1qzMrRp5JB_k/view?usp=drive_link](https://drive.google.com/file/d/1YpmNlNnEA0oCPXll3bqz1qzMrRp5JB_k/view?usp=drive_link)
+- <br>
 <a href="https://wa.me/923432490387" target="_blank" style="
   display: inline-block;
   padding: 10px 20px;
