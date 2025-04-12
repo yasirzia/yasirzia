@@ -4,6 +4,36 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 <h1 align="center">Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer</h1>
 <h3 align="center">I am a highly skilled Lead Front-End, WordPress, and Shopify Developer with 14 years of experience in designing and developing high-performance, scalable websites. Expertise in WordPress development, Shopify customization, UI/UX design, and front-end technologies. Adept at transforming complex design concepts into functional, visually appealing websites while ensuring speed, security, and SEO best practices. Extensive experience in cloud hosting and DevOps, optimizing web applications for local and international clients.</h3> 
 
+<h2>🚀 Recent Projects</h2>
+<ul>
+  <li><a href="https://cosmoluma.com/" target="_blank">Cosmoluma</a></li>
+  <li><a href="https://rahaofficial.pk/" target="_blank">Raha Official PK</a></li>
+  <li><a href="https://naijabiz.ca/" target="_blank">NaijaBiz</a></li>
+  <li><a href="https://resumefort.com/" target="_blank">ResumeFort</a></li>
+  <li><a href="https://balancemee.com/" target="_blank">Balancemee</a></li>
+  <li><a href="https://purrfectfeasts.com/" target="_blank">Purrfect Feasts</a></li>
+  <li><a href="https://sugarush.ca/" target="_blank">Sugarush</a></li>
+  <li><a href="https://hmhairspa.com/" target="_blank">HM Hair Spa</a></li>
+  <li><a href="https://hairpulsesalon.ca/" target="_blank">Hair Pulse Salon</a></li>
+  <li><a href="http://mgunited.ca/" target="_blank">MG United</a></li>
+  <li><a href="https://greengatemedical.ca/" target="_blank">Greengate Medical</a></li>
+  <li><a href="https://helmsgeomarine.com/" target="_blank">Helms Geomarine</a></li>
+  <li><a href="https://www.brickyardbbq.ca/" target="_blank">Brickyard BBQ</a></li>
+  <li><a href="http://desitaste.ca/" target="_blank">Desi Taste</a></li>
+  <li><a href="https://cdimaging.ca/" target="_blank">CD Imaging</a></li>
+  <li><a href="http://www.msmunited.ca/" target="_blank">MSM United</a></li>
+  <li><a href="http://ssaa.com.pk/" target="_blank">SSAA Pakistan</a></li>
+  <li><a href="https://safetyhub.com.ng/" target="_blank">SafetyHub Nigeria</a></li>
+  <li><a href="https://tokkahub.com/" target="_blank">TokkaHub</a></li>
+  <li><a href="http://topekengineering.com/" target="_blank">Topek Engineering</a></li>
+  <li><a href="https://ordixy.com/" target="_blank">Ordixy</a></li>
+  <li><a href="https://podergreenconsulting.com/" target="_blank">Poder Green Consulting</a></li>
+  <li><a href="https://examplanetnigeria.com/" target="_blank">Exam Planet Nigeria</a></li>
+  <li><a href="https://www.c-ceramica.com/" target="_blank">C-Ceramica</a></li>
+  <li><a href="https://healthshield.ae/" target="_blank">HealthShield UAE</a></li>
+</ul>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirzia" alt="yasirzia" /></a> </p>
 
 - 🔭 I’m currently working on [Cosmoluma | E-commerce Store](https://cosmoluma.com/)
