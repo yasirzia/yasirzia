@@ -4,6 +4,19 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 <h1 align="center">Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer</h1>
 <h3 align="center">I am a highly skilled Lead Front-End, WordPress, and Shopify Developer with 14 years of experience in designing and developing high-performance, scalable websites. Expertise in WordPress development, Shopify customization, UI/UX design, and front-end technologies. Adept at transforming complex design concepts into functional, visually appealing websites while ensuring speed, security, and SEO best practices. Extensive experience in cloud hosting and DevOps, optimizing web applications for local and international clients.</h3> 
 
+<a href="https://wa.me/923432490387" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+">
+  📞 Contact Me
+</a>
+
 <h2>🚀 Recent Projects</h2>
 <ul>
   <li><a href="https://cosmoluma.com/" target="_blank">Cosmoluma</a></li>
@@ -33,6 +46,18 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
   <li><a href="https://healthshield.ae/" target="_blank">HealthShield UAE</a></li>
 </ul>
 
+<a href="https://wa.me/923432490387" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+">
+  📞 Contact Me
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirzia" alt="yasirzia" /></a> </p>
 
@@ -51,7 +76,18 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 - 📫 How to reach me **yasirzia@ live.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YpmNlNnEA0oCPXll3bqz1qzMrRp5JB_k/view?usp=drive_link](https://drive.google.com/file/d/1YpmNlNnEA0oCPXll3bqz1qzMrRp5JB_k/view?usp=drive_link)
-
+<a href="https://wa.me/923432490387" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+">
+  📞 Contact Me
+</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yz-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yz-developer" height="30" width="40" /></a>
@@ -65,3 +101,15 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasirzia&show_icons=true&locale=en" alt="yasirzia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasirzia&" alt="yasirzia" /></p>
+<a href="https://wa.me/923432490387" target="_blank" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #25D366;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+">
+  📞 Contact Me
+</a>
