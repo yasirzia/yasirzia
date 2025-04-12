@@ -18,33 +18,63 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 </a>
 
 <h2>🚀 Recent Projects</h2>
-<ul>
-  <li><a href="https://cosmoluma.com/" target="_blank">Cosmoluma</a></li>
-  <li><a href="https://rahaofficial.pk/" target="_blank">Raha Official PK</a></li>
-  <li><a href="https://naijabiz.ca/" target="_blank">NaijaBiz</a></li>
-  <li><a href="https://resumefort.com/" target="_blank">ResumeFort</a></li>
-  <li><a href="https://balancemee.com/" target="_blank">Balancemee</a></li>
-  <li><a href="https://purrfectfeasts.com/" target="_blank">Purrfect Feasts</a></li>
-  <li><a href="https://sugarush.ca/" target="_blank">Sugarush</a></li>
-  <li><a href="https://hmhairspa.com/" target="_blank">HM Hair Spa</a></li>
-  <li><a href="https://hairpulsesalon.ca/" target="_blank">Hair Pulse Salon</a></li>
-  <li><a href="http://mgunited.ca/" target="_blank">MG United</a></li>
-  <li><a href="https://greengatemedical.ca/" target="_blank">Greengate Medical</a></li>
-  <li><a href="https://helmsgeomarine.com/" target="_blank">Helms Geomarine</a></li>
-  <li><a href="https://www.brickyardbbq.ca/" target="_blank">Brickyard BBQ</a></li>
-  <li><a href="http://desitaste.ca/" target="_blank">Desi Taste</a></li>
-  <li><a href="https://cdimaging.ca/" target="_blank">CD Imaging</a></li>
-  <li><a href="http://www.msmunited.ca/" target="_blank">MSM United</a></li>
-  <li><a href="http://ssaa.com.pk/" target="_blank">SSAA Pakistan</a></li>
-  <li><a href="https://safetyhub.com.ng/" target="_blank">SafetyHub Nigeria</a></li>
-  <li><a href="https://tokkahub.com/" target="_blank">TokkaHub</a></li>
-  <li><a href="http://topekengineering.com/" target="_blank">Topek Engineering</a></li>
-  <li><a href="https://ordixy.com/" target="_blank">Ordixy</a></li>
-  <li><a href="https://podergreenconsulting.com/" target="_blank">Poder Green Consulting</a></li>
-  <li><a href="https://examplanetnigeria.com/" target="_blank">Exam Planet Nigeria</a></li>
-  <li><a href="https://www.c-ceramica.com/" target="_blank">C-Ceramica</a></li>
-  <li><a href="https://healthshield.ae/" target="_blank">HealthShield UAE</a></li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Project Name</th>
+      <th>Project Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://cosmoluma.com/" target="_blank">Cosmoluma</a></td>
+      <td><a href="https://rahaofficial.pk/" target="_blank">Raha Official PK</a></td>
+      <td><a href="https://naijabiz.ca/" target="_blank">NaijaBiz</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://resumefort.com/" target="_blank">ResumeFort</a></td>
+      <td><a href="https://balancemee.com/" target="_blank">Balancemee</a></td>
+      <td><a href="https://purrfectfeasts.com/" target="_blank">Purrfect Feasts</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://sugarush.ca/" target="_blank">Sugarush</a></td>
+      <td><a href="https://hmhairspa.com/" target="_blank">HM Hair Spa</a></td>
+      <td><a href="https://hairpulsesalon.ca/" target="_blank">Hair Pulse Salon</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://mgunited.ca/" target="_blank">MG United</a></td>
+      <td><a href="https://greengatemedical.ca/" target="_blank">Greengate Medical</a></td>
+      <td><a href="https://helmsgeomarine.com/" target="_blank">Helms Geomarine</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.brickyardbbq.ca/" target="_blank">Brickyard BBQ</a></td>
+      <td><a href="http://desitaste.ca/" target="_blank">Desi Taste</a></td>
+      <td><a href="https://cdimaging.ca/" target="_blank">CD Imaging</a></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.msmunited.ca/" target="_blank">MSM United</a></td>
+      <td><a href="http://ssaa.com.pk/" target="_blank">SSAA Pakistan</a></td>
+      <td><a href="https://safetyhub.com.ng/" target="_blank">SafetyHub Nigeria</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://tokkahub.com/" target="_blank">TokkaHub</a></td>
+      <td><a href="http://topekengineering.com/" target="_blank">Topek Engineering</a></td>
+      <td><a href="https://ordixy.com/" target="_blank">Ordixy</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://podergreenconsulting.com/" target="_blank">Poder Green</a></td>
+      <td><a href="https://examplanetnigeria.com/" target="_blank">Exam Planet</a></td>
+      <td><a href="https://www.c-ceramica.com/" target="_blank">C-Ceramica</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://healthshield.ae/" target="_blank">HealthShield UAE</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <a href="https://wa.me/923432490387" target="_blank" style="
   display: inline-block;
