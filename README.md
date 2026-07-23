@@ -1,4 +1,4 @@
-# Top-Web-Developer-in-Karachi-Pakistan
+# Freelance Web Developer in Karachi Pakistan
 Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highly skilled Lead Front-End, WordPress, and Shopify Developer with 14 years of experience in designing and developing high-performance, scalable websites.
 
 <h1 align="center">Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer</h1>
@@ -101,7 +101,7 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/yasir_zia](https://www.behance.net/yasir_zia)
 
-- 📝 I regularly write articles on [https://xperlet.com/blog/](https://xperlet.com/blog/)
+- 📝 I regularly write articles on [https://xperlet.com/blog/](https://xperlet.com/)
 
 - 📫 How to reach me **yasirzia@ live.com**
 
