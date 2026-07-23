@@ -69,7 +69,7 @@ Hi 👋, I'm Yasir | Shopify, WordPress and Frontend Web Developer, I am a highl
     </tr>
     <tr>
       <td><a href="https://healthshield.ae/" target="_blank">HealthShield UAE</a></td>
-      <td></td>
+      <td><a href="https://xperlet.com/" target="_blank">Xperlet</a></td>
       <td></td>
     </tr>
   </tbody>
